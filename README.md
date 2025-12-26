@@ -176,7 +176,7 @@ p.note { display: none; }
 <h2><span class="yellow">ひよこ達は餌のおねだりでぴよぴよ</span></h2>
 <a href="20251226_004.JPG" target="_blank"><img src="20251226_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">西の空に細い月がうかん出ます（画面中央、よく見ないと見えないかも）</span></h2>
+<h2><span class="yellow">西の空に細い月が浮かんでます（画面中央、よく見ないと見えないかも）</span></h2>
 <a href="20251226_005.JPG" target="_blank"><img src="20251226_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251226_006.JPG" target="_blank"><img src="20251226_006.JPG" alt="サンプル画像" class="responsive-media"></a>
 
@@ -192,7 +192,7 @@ p.note { display: none; }
 <a href="20251226_013.JPG" target="_blank"><img src="20251226_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251226_014.JPG" target="_blank"><img src="20251226_014.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">鳥はどっしりと落ち着いてたので、望遠でパチリ</span></h2>
+<h2><span class="yellow">鳥はどっしりと落ち着いてたので、スマホの望遠でパチリ</span></h2>
 <a href="20251226_015.JPG" target="_blank"><img src="20251226_015.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ちょっと早めの夕暮れ定点観測</span></h2>
